@@ -1,2 +1,2 @@
 ## Python Projects
-Collection of files with python exercises
+Collection of files with python exercises.
